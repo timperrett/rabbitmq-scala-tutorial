@@ -22,7 +22,7 @@ object BasicStringSender {
   // Create a new instance of the string sender.
   // This sender will send messages to the "mult" exchange with a 
   // routing key of "routeroute"
-  val amqp = new StringAMQPSender(factory, "localhost", 5672, "mult", "routeroute")
+  val amqp = new StringAMQPSender(factory, "xmpiemacbookpro", 5672, "mult", "example.demo")
   amqp.start
   
   /**
