@@ -10,12 +10,11 @@
   <name>Rabbit MQ Scala - Master</name>
   
   <properties>
-    <scala.version>2.7.4</scala.version>
-    <lift.version>1.1-SNAPSHOT</lift.version>
+    <scala.version>2.7.5</scala.version>
+    <lift.version>1.1-M4</lift.version>
   </properties>
   
   <modules>
-    <!-- <module>server</module> -->
     <module>client</module>
     <module>server</module>
   </modules>
