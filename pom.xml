@@ -10,7 +10,7 @@
   <name>Rabbit MQ Scala - Master</name>
   
   <properties>
-    <scala.version>2.7.5</scala.version>
+    <scala.version>2.13.1</scala.version>
     <lift.version>1.1-M4</lift.version>
   </properties>
   
